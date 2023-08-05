@@ -1,1 +1,1 @@
-# DataAnalytics_Projects
+# Parkinson's Disease Prediction
